@@ -1,0 +1,6 @@
+{
+  "name": "Simulador 3D do Sistema Solar e Satélites da Terra",
+  "description": "Simulação tridimensional interativa do Sistema Solar com órbitas planetárias reais e nuvem de satélites ativos ao redor da Terra com controles de quantidade e análise orbital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
